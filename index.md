@@ -7,3 +7,4 @@
 - [словно Один всезрящий](Digital_Quest_viking_song.md)
 - [глина сама донесла](babylon.md)
 - [страж врат непознанного](baghdad.md)
+- [дни и луны текли](gilgamesh.md)
