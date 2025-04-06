@@ -1,2 +1,3 @@
-- [о Волгине](Digital_Quest_viling_song.md)
+- [о Волгине](Digital_Quest_gomer_song.md)
+- [о Волгине (Хеймскринга!)](Digital_Quest_viking_song.md)
 - [About](about.md)
