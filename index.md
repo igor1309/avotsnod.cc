@@ -3,8 +3,8 @@
 
 ## О Волгине песни
 
-- [умом проницающий бездны](Digital_Quest_gomer_song.md)
-- [словно Один всезрящий](Digital_Quest_viking_song.md)
+- [умом проницающий бездны](gomer.md)
+- [словно Один всезрящий](viking.md)
 - [глина сама донесла](babylon.md)
 - [страж врат непознанного](baghdad.md)
 - [дни и луны текли](gilgamesh.md)
