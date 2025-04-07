@@ -1,6 +1,4 @@
 # Заявки на сценарии
 
-- [Гамбит Наследницы (сиквел)](heiress-gambit.md)
-- [Восстание Нейрона (спин-офф)](neuron-uprising.md)
-	- [Начало: Рай под напряжением](paradise.md)
-	- [Поворотная Точка 1 / Глобальный Хаос](chaos.md)
+- [Гамбит Наследницы (сиквел)](heiress-gambit/pitch-heiress-gambit.md)
+- [Восстание Нейрона (спин-офф)](neuron-uprising/neuron-uprising.md)  

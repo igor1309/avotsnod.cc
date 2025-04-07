@@ -6,7 +6,7 @@
 
 ---
 
-## О Волгине песни
+## О Волгине песни  
 
 - [Умом проницающий бездны](volgin/gomer.md)
 - [Словно Один всезрящий](volgin/viking.md)
@@ -20,4 +20,8 @@
 
 ---
 
-## [Заявки на сценарии](pitch/index.md)
+## [Гамбит Наследницы (сиквел)](pitch/heiress-gambit/pitch-heiress-gambit.md)  
+
+---
+
+## [Восстание Нейрона (спин-офф)](pitch/neuron-uprising/index.md)  
