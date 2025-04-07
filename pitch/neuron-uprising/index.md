@@ -11,7 +11,8 @@
 
 - [Реакция на кризис / Поиски истины](script/aftershock.md)  
 - [Раскрытие дипфейка – постепенно](script/uncover.md)   
-- [«Конфронтация с Бородиным»](script/borodin.md)   
+- [Конфронтация с Бородиным](script/borodin.md)   
+- [Вынужденный союз](script/union.md)   
 
 ---
 
