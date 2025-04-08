@@ -25,3 +25,7 @@
 ---
 
 ## [Восстание Нейрона (спин-офф)](pitch/neuron-uprising/index.md)  
+
+---  
+
+## [Docs](/docs/documentation/scriptdocs/)
