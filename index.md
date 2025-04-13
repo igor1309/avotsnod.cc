@@ -12,8 +12,6 @@
 
 ## [Заявки на сценарии](./content/pitch/index.md)
 
-## [О Волгине песни](./content/volgin/index.md)
-
 
 ---  
 
