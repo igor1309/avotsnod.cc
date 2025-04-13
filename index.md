@@ -28,4 +28,4 @@
 
 ---  
 
-[WIP: Docs](/docs/documentation/scriptdocs/)
+[WIP: Docs](/docc/documentation/scriptdocs/)
