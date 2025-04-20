@@ -17,6 +17,6 @@
 
 ---  
 
-[Pharaon](/news/pharaon.md)  
+[Pharaon](/content/news/pharaon.md)  
 
 [WIP: Docs](/docc/documentation/scriptdocs/)  
