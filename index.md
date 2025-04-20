@@ -16,5 +16,6 @@
 ---  
 
 [Pharaon](/content/news/pharaoh.md)  
+[Великая Ложная Дверь Шумернета](shumernet.md)  
 
 [WIP: Docs](/docc/documentation/scriptdocs/)  
