@@ -17,4 +17,6 @@
 
 ---  
 
+[Pharaon](/news/pharaon.md)  
+
 [WIP: Docs](/docc/documentation/scriptdocs/)  
