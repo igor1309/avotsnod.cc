@@ -10,12 +10,11 @@
 
 ## [Ходжа Насредин](./content/nasredin/index.md)
 
+## [news](./content/news/index.md)
+
 ## [Заявки на сценарии](./content/pitch/index.md)
 
 
 ---  
-
-[Pharaon](/content/news/pharaoh.md)  
-[Великая Ложная Дверь Шумернета](shumernet.md)  
 
 [WIP: Docs](/docc/documentation/scriptdocs/)  
