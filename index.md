@@ -10,7 +10,7 @@
 
 ## [Ходжа Насредин](./content/nasredin/index.md)
 
-## [news](./content/news/index.md)
+## [Как бы новости](./content/news/index.md)
 
 ## [Заявки на сценарии](./content/pitch/index.md)
 
