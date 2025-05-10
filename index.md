@@ -14,6 +14,8 @@
 
 ## [Заявки на сценарии](./content/pitch/index.md)
 
+## [Рассказы](./content/stories/index.md)
+
 
 ---  
 
