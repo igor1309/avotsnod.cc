@@ -16,6 +16,8 @@
 
 ## [Рассказы](./content/stories/index.md)
 
+## [Ватсон и Шерлок](./content/vatson/index.md)
+
 
 ---  
 
